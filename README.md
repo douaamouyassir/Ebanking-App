@@ -12,55 +12,55 @@ Cette application est un système de gestion bancaire complet permettant :
 ## 📸 Captures d'écran
 
 ### Interface de Connexion
-![img_6.png](img_6.png)
-![img_7.png](img_7.png)
+![img_6.png](images/img_6.png)
+![img_7.png](images/img_7.png)
 
 ### Dashboard (Banquier - ADMIN)
-![img_8.png](img_8.png)
+![img_8.png](images/img_8.png)
 
 **Description** : Vue d'ensemble avec statistiques globales, graphiques des opérations et répartition des comptes.
 
 ### Dashboard (Client - USER)
-![img_9.png](img_9.png)
+![img_9.png](images/img_9.png)
 
 **Description** : Vue personnalisée pour les clients avec leurs comptes et opérations récentes.
 
 ### Gestion des Clients
-![img_10.png](img_10.png)
-![img_11.png](img_11.png)
+![img_10.png](images/img_10.png)
+![img_11.png](images/img_11.png)
 
 **Description** : Liste des clients avec recherche, tri, pagination et actions (créer, modifier, supprimer).
 
 ### Gestion des Comptes
-![img_12.png](img_12.png)
-![img_13.png](img_13.png)
+![img_12.png](images/img_12.png)
+![img_13.png](images/img_13.png)
 **Pour un client existant**
-![img_14.png](img_14.png)
+![img_14.png](images/img_14.png)
 **Pour un nouveau client**
-![img_15.png](img_15.png)
+![img_15.png](images/img_15.png)
 
 **Description** : Liste des comptes bancaires avec filtres par type et statut, création et modification.
 
 ### Mes Comptes (Client)
-![img_16.png](img_16.png)
+![img_16.png](images/img_16.png)
 
 **Description** : Vue des comptes du client avec soldes et historique des opérations.
 
 ### Opérations Bancaires
-![img_17.png](img_17.png)
+![img_17.png](images/img_17.png)
 
 **Description** : Interface pour effectuer des débits, crédits et transferts.
 
 ### Chatbot Intelligent
 **cote client :**
-![img_18.png](img_18.png)
+![img_18.png](images/img_18.png)
 **Cote admin :**
-![img_19.png](img_19.png)
+![img_19.png](images/img_19.png)
 
 **Description** : Assistant bancaire intelligent accessible depuis toutes les pages de l'application.
 
 ### Historique des Opérations
-![img_20.png](img_20.png)
+![img_20.png](images/img_20.png)
 
 **Description** : Historique détaillé des opérations avec filtres par date et type.
 
@@ -217,18 +217,18 @@ Le frontend sera accessible sur `http://localhost:4200`
 Le diagramme ci-dessous présente tous les cas d'utilisation pour les acteurs **ADMIN** (Banquier) et **USER** (Client) :
 
 User :
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
 Admin : 
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
-![img_4.png](img_4.png)
-![img_5.png](img_5.png)
+![img_2.png](images/img_2.png)
+![img_3.png](images/img_3.png)
+![img_4.png](images/img_4.png)
+![img_5.png](images/img_5.png)
 
 ### Diagramme de Classes
 
 Le diagramme ci-dessous présente la structure complète des entités, leurs relations et les principales classes du système :
-![images\img.png](img.png)
+![img.png](images/img.png)
 
 
 
