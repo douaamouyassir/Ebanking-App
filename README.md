@@ -228,7 +228,7 @@ Admin :
 ### Diagramme de Classes
 
 Le diagramme ci-dessous présente la structure complète des entités, leurs relations et les principales classes du système :
-![img.png](img.png)
+![images\img.png](img.png)
 
 
 
