@@ -9,7 +9,7 @@ Cette application est un système de gestion bancaire complet permettant :
 - **Pour les Clients (USER)** : Consultation de leurs comptes, historique des opérations, et effectuer des transferts
 - **Chatbot Intelligent** : Assistant bancaire basé sur l'API OpenAI pour répondre aux questions des utilisateurs
 
-## 📸 Captures d'écran
+##  Captures d'écran
 
 ### Interface de Connexion
 ![img_6.png](images/img_6.png)
